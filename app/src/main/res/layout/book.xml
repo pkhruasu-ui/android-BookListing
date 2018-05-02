@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/list_item"
+    style="@style/bookLinearLayout">
+
+    <LinearLayout style="@style/bookListContainer">
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/bookTitle"
+            tools:text="@string/tmp_title" />
+
+        <TextView
+            android:id="@+id/author"
+            style="@style/bookAuthors"
+            tools:text="@string/tmp_author" />
+
+    </LinearLayout>
+</LinearLayout>

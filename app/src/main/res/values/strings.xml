@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookListing</string>
+    <string name="tmp_author">Prajak Khruasuwan</string>
+    <string name="tmp_title">Book Listing</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="no_result">No listing base on your query</string>
+    <string name="search_lbl">Search</string>
+    <string name="query_required">Please provide query</string>
+
+</resources>
